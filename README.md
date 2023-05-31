@@ -32,7 +32,7 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 🚀 SEBELUM INSTALL SCRIPT HARAP DAFTARKAN DULU IP VPS KAMU 🚀
 🚀 KIRIM IP VPS KE SAYA LEWAT Link DI BAWAH INI  🚀
 </h2 align="center">
-https://t.me/CasperGaming
+https://t.me/Mitraceluler
 <h2><hr>
 
 <h2 align="center">
